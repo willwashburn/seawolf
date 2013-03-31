@@ -1,0 +1,32 @@
+{
+	"name":"Seawolf - Buzzword Boilerplate!",
+	"version":"0.0.1",
+	"author":"Will Washburn <will@willwashburn.com>",
+	"description":"Node.js with express.js, SASS with Foundation/Compass, & Backbone.js with marionette.js boilerplate",
+	"main":"./app/server.js",
+	"dependencies": {
+		"express":"3.x",
+		"underscore":"x",
+		"fs":"x",
+		"express-hbs":"x",
+		"moment":"~2.x",
+		"string":"x",
+		"path":"~0.4.9",
+		"mongoose":"~3.5.5",
+		"request":"x"
+	},
+	"devDependencies": {
+		"grunt":"~0.4.0",
+		"grunt-contrib-jshint":"~0.1.1",
+		"grunt-contrib-nodeunit":"~0.1.2",
+		"grunt-contrib-uglify":"x",
+		"grunt-contrib-watch":"x",
+		"grunt-contrib-concat":"x",
+		"grunt-contrib-compass":"x"
+
+	},
+	"engines": {
+		"node":"0.8.x",
+	    "npm":"1.1.x"
+	}
+}

@@ -1,0 +1,2 @@
+Author    | Will Washburn
+Framework | github.com/willwashburn/seawolf
