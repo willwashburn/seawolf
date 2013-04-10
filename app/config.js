@@ -1,7 +1,7 @@
-{
-        "port"  : 5000
+module.exports = {
+        "port"  : 5000,
         "paths" : {
-                "view"       : "/views"
+                "view"       : "/views",
                 "errorPages" : "/pages/errors/"
         }
 }
